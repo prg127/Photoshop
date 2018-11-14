@@ -1,3 +1,3 @@
 # Photoshop
 
-Some of my works in adobr photoshshop
+Some of my works in adobe photoshshop
