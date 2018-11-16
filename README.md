@@ -1,6 +1,5 @@
 # Adobe_Photoshop
 
-
 Some of my works in adobe photoshshop
 
-collage, blog and webpage ui
+collage, blog and webpage UI
